@@ -51,5 +51,5 @@ Each test case's input, expected result, and actual result will be displayed in 
 You can modify or add your own test cases to ensure the function works as expected in various scenarios.
 
 # Credits
-Script created by [Zaibonisha].
+Script created by Zaibonisha.
 
