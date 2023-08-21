@@ -1,6 +1,6 @@
 # Number to text conversion
 
-cd number-to-text-converter
+cd Option1
 install pip install inflect
 
 
