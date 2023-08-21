@@ -1,7 +1,7 @@
 # Number to text conversion
 
 cd Option1
-install pip install inflect
+Run - pip install inflect
 
 
 
